@@ -1,0 +1,22 @@
+users:
+- username: user1
+  password: password1
+  accounts:
+  - accountNumber: ACC123
+    balance: 1693.570299753448
+    bank:
+      name: BankA
+- username: user2
+  password: password2
+  accounts:
+  - accountNumber: ACC456
+    balance: 259.05126299348115
+    bank:
+      name: BankB
+- username: user3
+  password: password3
+  accounts:
+  - accountNumber: ACC789
+    balance: 388.5768944902217
+    bank:
+      name: BankC

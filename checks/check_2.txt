@@ -1,0 +1,7 @@
+----------------------------
+Transaction Number: 2
+Date and Time: 2023-09-03T17:17:05.0919765
+Transaction Type: Deposit
+Sender Account: ACC123
+Amount: 200.00
+----------------------------

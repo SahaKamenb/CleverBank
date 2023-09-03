@@ -1,0 +1,76 @@
+Insufficient funds
+Deposit successful
+----------------------------
+Transaction Number: 1
+,Date and Time: 2023-09-03T13:59:59.5574667
+Transaction Type: Deposit
+Sender Account: 123456
+Amount: 50.0
+----------------------------
+$Check saved as: checks/check_1.txt
+	Withdraw successful
+	----------------------------
+	Transaction Number: 2
+	,Date and Time: 2023-09-03T13:59:59.5684705
+	Transaction Type: Withdraw
+	Sender Account: 123456
+	Amount: 50.0
+	----------------------------
+	$Check saved as: checks/check_2.txt
+
+----------------------------
+
+Transaction Number: 3
+
++Date and Time: 2023-09-03T13:59:59.571471
+
+Transaction Type: Transfer
+
+Sender Bank: Source Bank
+
+!Receiver Bank: Destination Bank
+
+Receiver Account: 789012
+
+Commission: 0.25
+
+Sender Account: 123456
+
+Amount: 25.0
+
+----------------------------
+
+$Check saved as: checks/check_3.txt
+
+----------------------------
+
+Transaction Number: 3
+
++Date and Time: 2023-09-03T13:59:59.571471
+
+Transaction Type: Transfer
+
+Sender Bank: Source Bank
+
+!Receiver Bank: Destination Bank
+
+Receiver Account: 789012
+
+Commission: 0.25
+
+Sender Account: 123456
+
+Amount: 25.0
+
+----------------------------
+
+$Check saved as: checks/check_3.txt
+(Insufficient funds for the transaction
+----------------------------
+Transaction Number: 4
++Date and Time: 2023-09-03T13:59:59.576471
+Transaction Type: Withdraw
+Sender Account: 123456
+Amount: 150.0
+----------------------------
+$Check saved as: checks/check_4.txt

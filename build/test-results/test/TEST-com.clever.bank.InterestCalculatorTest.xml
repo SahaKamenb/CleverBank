@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clever.bank.InterestCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-03T10:59:57" hostname="SERV1" time="2.016">
+  <properties/>
+  <testcase name="testInterestCalculation()" classname="com.clever.bank.InterestCalculatorTest" time="2.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
